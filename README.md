@@ -6,4 +6,4 @@ npm install
 
 #To run the app
 
-nodemon app
+npm run dev
